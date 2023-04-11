@@ -7,6 +7,6 @@ This repository is mainly for personal collection, research, and development of 
 
 P.S
 
-  感谢为此仓库内容提供帮助的自然人类们和ChatGPT API Session们！
+  感谢为此仓库内容提供帮助的自然人们和ChatGPT API Session们！
   
-  Thank you to the individual humans and ChatGPT API Sessions who have contributed to the content of this repository!
+  Thank you to the Natural persons and ChatGPT API Sessions who have contributed to the content of this repository!
